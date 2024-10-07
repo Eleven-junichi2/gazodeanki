@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gazodeanki"
+version = "0.1.0"
+description = ""
+authors = ["elprebit <junichinomori@yahoo.co.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.24.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
