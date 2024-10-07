@@ -25,3 +25,4 @@ Install the dependencies with poetry or configure them manually and run `cli.py`
 ## TODO
 
 - GUI
+- Make tests
