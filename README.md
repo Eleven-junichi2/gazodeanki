@@ -1,7 +1,7 @@
 # gazodeanki
 
-This application supports learning as flashcards.
-You can easily create cards that accompany the string in question (e.g. a word) with its **picture/image**.
+flashcard application for CLI.
+You can easily create cards accompanying the string (e.g. a word) with its **picture/image**.
 
 ## How to use
 
@@ -20,7 +20,7 @@ Install the dependencies with poetry or configure them manually and run `cli.py`
 ## features
 
 - CLI
-- Display image related to question in the card
+- Display an image related to the question in the card
 
 ## TODO
 
