@@ -1,6 +1,6 @@
 # gazodeanki
 
-flashcard application for CLI.
+Flashcard application for CLI.
 You can easily create cards accompanying the string (e.g. a word) with its **picture/image**.
 
 ## How to use
